@@ -12,6 +12,12 @@ Fork the repository, submit a pull request, or share feddback via issues.
 
 Thank you for your interest and your collaboration !
 
+##🌴 Open Source Commmunity
+
+This project supports ethical and inclusive digital tools across métiers. Created with care and purpose.
+
+![Open Source Badge] (./OSS PPP.png)
+
 
 
 
