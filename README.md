@@ -41,5 +41,16 @@ This project supports ethical and inclusive digital tools across métiers. Creat
 </div>
 
 
+## 📚 Documentation
+
+### 🎨 Design System  
+🔗 [Accéder au Design System]([https://figma.com/file/TON_ID?mode=dev](https://www.figma.com/design/hiqnjhJrWvurZJFbOFtIZS/Plateforme-de-transformations?node-id=138-5911&m=dev&t=92ruug2OSvrKqrMe-1))  
+Contient les composants principaux, les thèmes visuels (chaleureux / audacious), et les micro-interactions métiers.
+
+### 🧪 Prototype interactif  
+🔗 [Tester le prototype Digital Clock Industries]([https://figma.com/proto/TON_ID](https://www.figma.com/proto/hiqnjhJrWvurZJFbOFtIZS/Plateforme-de-transformations?page-id=0%3A1&node-id=94-1757&p=f&viewport=379%2C144%2C0.03&t=WA8QX9QVKJCSqhN7-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2))  
+Maquette interactive de l’écran d’accueil, du chrono digital et des transitions RH.
+
+
 
 
