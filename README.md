@@ -52,5 +52,22 @@ Contient les composants principaux, les thèmes visuels (chaleureux / audacious)
 Maquette interactive de l’écran d’accueil, du chrono digital et des transitions RH.
 
 
+✨ Improvement: Propulsive, Engaging, and Urgent Motion Bar
+
+This update introduces a new animated UX component designed to motivate personnel in time-sensitive RH workflows. The motion bar synchronizes a car icon and chevron with the tempo of a digital clock, visually guiding users through actionable steps.
+
+🔧 Optimization Highlights
+- Modular HTML/CSS/JS structure
+- Smooth animation triggered by clock tempo
+- Accessible and responsive design
+- Fully documented in French (Google Doc)
+
+📄 Documentation & Guide
+A full design guide is available in French, including accessibility, structure, behavior, and test scenarios.
+
+> 📎 Guide RH — Propulsion Motrice Engageante et Urgente (Google Doc)
+
+🌿 Branch Activated
+> propulsion-motrice-engageante — contains the component, animation logic, and README
 
 
